@@ -1,0 +1,8 @@
+streamlit
+easyocr
+opencv-python-headless
+pillow
+numpy
+deep-translator
+gtts
+pyspellchecker
